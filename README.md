@@ -32,20 +32,28 @@
   <img align="right" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif""> 
   <h3>Data Analysis</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="8%" width="8%"/> &nbsp;&nbsp; <!-- Power BI added here -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="8%" height="8%"/>
     <br/>
   <h3>Statistical Analysis</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/statistics/statistics-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="8%" width="8%"/> &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="8%" width="8%"/> &nbsp;&nbsp;
     <br/>
   <h3>Data Visualization</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="8%" width="8%"/> &nbsp;&nbsp; <!-- Power BI added here -->
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="7%" width="6%"/> &nbsp;&nbsp; <!-- Power BI added here -->
     <br/>
   <h3>Other Tools</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="8%" width="8%"/> &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+</div>
+
+<br/>
+
+<h2>:gear: <i>Statistics</i></h2>
+
+<div>
+  <img width="452" align="left" src="https://github-readme-stats.vercel.app/api?username=GoKu1402&show_icons=truecount_private=true&include_all_commits=true&hide=issues,contribs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoKu1402&layout=compact&hide=issues,contribs">
 </div>
