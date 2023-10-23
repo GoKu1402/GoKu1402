@@ -23,3 +23,29 @@
 
 - :star: Hobbies: Playing chess :chess_pawn: and Mobile gaming :iphone:
 </div>
+
+<br/>
+
+<h2>:hammer_and_pick: <i>Data Analyst Skills</i></h2>
+
+<div>
+  <img align="right" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif""> 
+  <h3>Data Analysis</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="8%" width="8%"/> &nbsp;&nbsp; <!-- Power BI added here -->
+    <br/>
+  <h3>Statistical Analysis</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/statistics/statistics-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <br/>
+  <h3>Data Visualization</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="8%" width="8%"/> &nbsp;&nbsp; <!-- Power BI added here -->
+    <br/>
+  <h3>Other Tools</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
+</div>
