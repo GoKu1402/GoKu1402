@@ -42,7 +42,8 @@ Passionate about transforming data into insights using statistics, machine learn
 ---
 
 ### 🤖 Machine Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="8%" width="8%"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="8%" width="8%"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" height="8%" width="8%"/> 
 
 ---
 
