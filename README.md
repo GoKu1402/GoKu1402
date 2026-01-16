@@ -8,7 +8,7 @@
 
 - :computer: I work with <b>SQL, PowerBI, MS Excel and Python</b>.
 
-- 🌱 I’m currently learning <b>Advanced Statistical concepts</b> and trying to improve further in terms of Data Science and Statistical analysis in general.
+- 🌱 I’m currently learning <b>AI Powered Data Science from Nebius</b> and trying to improve further in terms of Data Science and Statistical analysis in general.
 
 - :email: How to reach me: gollankurulkar@gmail.com
 
