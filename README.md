@@ -89,16 +89,6 @@ Passionate about transforming data into insights using statistics, machine learn
 
 ---
 
-## 📊 GitHub Statistics
-
-<img width="440" align="left"
-src="https://github-readme-stats.vercel.app/api?username=GoKu1402&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs">
-
-<img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoKu1402&layout=compact&hide=issues,contribs">
-
----
-
 ## ♟️ Beyond Data
 
 - ♟️ Playing Chess  
