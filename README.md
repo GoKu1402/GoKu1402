@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gollan 👋</h1>
 <h3 align="center">
-Aspiring Data Scientist | Statistical Analysis | Machine Learning | Python
+Data Scientist | Statistical Analysis | Machine Learning | Python
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ Passionate about transforming data into insights using statistics, machine learn
 - 📬 Reach me at: **gollankurulkar@gmail.com**
 
 🔗 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/golan-k-928973170/">linkedin.com/in/golan-k</a>
+<a href="https://www.linkedin.com/in/gollan-kurulkar-928973170/">linkedin.com/in/golan-k</a>
 
 ---
 
