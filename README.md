@@ -14,8 +14,8 @@ RAG pipelines, agents, evaluation harnesses, and an RLHF loop written from scrat
 
 <img align="right" width="330" height="250" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
 
-- 🔭 Currently building an **agentic MVP platform** — one prompt in, a quality-checked web product out
-- 🧪 Focus on **RAG, agentic tool use, and LLM evaluation** — I report the experiments that failed alongside the ones that worked
+- 🔭 Currently working on **LLM systems** — retrieval, agentic tool use, and evaluation
+- 🧪 I report the experiments that failed alongside the ones that worked
 - 🛠️ Full-stack when the problem needs it: **FastAPI · React · PostgreSQL · Redis · Docker**
 - 📊 Grounded in **statistics** — EDA, hypothesis testing, A/B testing
 - 🧠 I'd rather ship one measured result than five demos
@@ -123,29 +123,6 @@ output. Entire pipeline, ~700 judge calls: **about one cent**.
 - Per-criterion judging cost 5× and moved overall agreement by 0
 
 `Nebius` · `Llama 3.3` · `Gemma 3` · `Pydantic structured output`
-
----
-
-### 🏭 [PCB Tracker](https://github.com/GoKu1402/pcb-tracker)
-
-Real-time WIP tracking and yield monitoring built for an electronics manufacturing floor,
-where the honest answer to *"where is work order X right now?"* was a walk around the factory.
-
-- Operators scan work-order barcodes in/out of each station; supervisors get live WIP
-  location, first-pass yield, and active line stops
-- Scan stations are just a browser — USB HID scanners act as keyboards, so any PC becomes a
-  station with zero client install
-- One on-prem Docker Compose deploy updates every station on the floor
-
-`FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker`
-
----
-
-### 🔥 Agnikriti — agentic MVP platform *(private, in progress)*
-
-A one-prompt platform that turns a startup idea into a quality-checked web product, plus a
-drop-in enhancement layer for the marketing site. TypeScript monorepo, Next.js, worker-based
-build pipeline with automated quality gates.
 
 ---
 
